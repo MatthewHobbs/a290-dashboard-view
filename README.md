@@ -1,5 +1,12 @@
 # Alpine A290 Dashboard
 
+> [!IMPORTANT]
+> **Archived / merged.** This dashboard now ships inside the **Alpine A290 add-on** — see
+> [**MatthewHobbs/a290-ha-addon**](https://github.com/MatthewHobbs/a290-ha-addon)
+> (the add-on deploys it for you via the `deploy_dashboard` option; sources live under
+> `alpine_a290/dashboards/`). This repo is kept read-only for history and is no longer
+> updated.
+
 An **Alpine A290** Home Assistant dashboard, adapted from
 [**renault-5-dashboard-view**](https://github.com/Topolino65/renault-5-dashboard-view)
 by [**Topolino65**](https://github.com/Topolino65) — full credit to them for the
