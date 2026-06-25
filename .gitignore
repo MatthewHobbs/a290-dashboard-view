@@ -1,0 +1,25 @@
+# Claude Code local config (contains machine-specific paths and credentials)
+.claude/
+
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python tooling artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets / local env
+secrets.yaml
+.env
+*.local
